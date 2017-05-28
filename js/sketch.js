@@ -1,3 +1,8 @@
+/*
+Author : Muhammad Bima Adi Prabowo(kom 4C1 1503639)
+File : sketch.js
+description : Backend Program
+*/
 var url = 'http://api.open-notify.org/iss-now.json';//link API
 //possisi Ellipse(Space Station)
 var issX; 
